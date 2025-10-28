@@ -99,7 +99,6 @@
       <gbif>
         <dateStamp>2024-08-01T16:58:47+00:00</dateStamp>
         <hierarchyLevel>dataset</hierarchyLevel>
-        <citation identifier="Identifier STUB">STUB DATASET</citation>
         <resourceLogoUrl>https://marketing.illinois.edu/app/uploads/2021/09/logo-internal-collaboration-1024x423.png</resourceLogoUrl>
         <livingTimePeriod>Extant</livingTimePeriod>
         <dc:replaces>https://doi.org/10.15468/eol0pe</dc:replaces>
